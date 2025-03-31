@@ -1,0 +1,17 @@
+c:\users\admin\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\bin\Debug\FOOD TAKE AWAY SYSTEM 1.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\bin\Debug\FOOD TAKE AWAY SYSTEM 1.exe
+c:\users\admin\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\bin\Debug\FOOD TAKE AWAY SYSTEM 1.pdb
+c:\users\admin\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD TAKE AWAY SYSTEM 1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD TAKE AWAY SYSTEM 1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD TAKE AWAY SYSTEM 1.exe
+c:\users\admin\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD TAKE AWAY SYSTEM 1.pdb
+C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.HomeForm.resources
+C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.LoginForm.resources
+C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.MDIParent1.resources
+C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Form1.resources
+C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\bin\Debug\Database1.mdf
+C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\bin\Debug\Database1_log.ldf
+C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Form2.resources
+C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Form3.resources
+C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Form4.resources
