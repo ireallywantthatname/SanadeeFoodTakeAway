@@ -1,4 +1,6 @@
-<div align="center"> # 🍔 Food Take Away System </div>
+<div align="center">
+<h1> 🍔 Food Take Away System </h1>
+</div>
 
 Food Take Away System is an application designed to help restaurants optimize and control their operations efficiently. This internet-enabled system connects restaurants or food companies with customers, making the ordering process seamless, secure, and convenient.
 
