@@ -17,7 +17,7 @@ namespace FOOD_TAKE_AWAY_SYSTEM_1
         {
             InitializeComponent();
         }
-        SqlConnection con = new SqlConnection(@" Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\Database1.mdf;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@" Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\Database1.mdf;Integrated Security=True");
         
         private void label3_Click(object sender, EventArgs e)
         {

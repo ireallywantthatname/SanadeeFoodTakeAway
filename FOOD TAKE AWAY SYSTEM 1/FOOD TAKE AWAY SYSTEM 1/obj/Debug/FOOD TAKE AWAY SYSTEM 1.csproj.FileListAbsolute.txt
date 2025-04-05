@@ -15,3 +15,23 @@ C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOO
 C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Form2.resources
 C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Form3.resources
 C:\Users\ADMIN\documents\visual studio 2012\Projects\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Form4.resources
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD TAKE AWAY SYSTEM 1.csproj.AssemblyReference.cache
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Form1.resources
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Form2.resources
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Form3.resources
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Form4.resources
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.HomeForm.resources
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.LoginForm.resources
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.MDIParent1.resources
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD_TAKE_AWAY_SYSTEM_1.Properties.Resources.resources
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD TAKE AWAY SYSTEM 1.csproj.GenerateResource.cache
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD TAKE AWAY SYSTEM 1.csproj.CoreCompileInputs.cache
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD TAKE AWAY SYSTEM 1.exe
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD TAKE AWAY SYSTEM 1.pdb
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\bin\Debug\Database1.mdf
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\bin\Debug\Database1_log.ldf
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\bin\Debug\FOOD TAKE AWAY SYSTEM 1.exe.config
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\bin\Debug\FOOD TAKE AWAY SYSTEM 1.exe
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\bin\Debug\FOOD TAKE AWAY SYSTEM 1.pdb
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Akash\projects\SanadeeFoodTakeAway\FOOD TAKE AWAY SYSTEM 1\FOOD TAKE AWAY SYSTEM 1\obj\Debug\FOOD TAK.4148BF71.Up2Date
